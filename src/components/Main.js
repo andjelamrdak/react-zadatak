@@ -1,4 +1,3 @@
-
 import Saloni from './Saloni'
 
 function Main() {
